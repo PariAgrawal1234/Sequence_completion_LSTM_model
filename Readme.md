@@ -25,12 +25,6 @@ A simple text generation app that uses a trained LSTM model to predict the next 
 
 ## Run Locally
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Start the app:
 
 ```bash
